@@ -1,0 +1,113 @@
+<div id="overlay">
+  <div class="container">
+    <h2>SIGN IN</h2>
+    <input class="nickname" type='text' id="username" [(ngModel)]='user' placeholder="Enter your name...">
+    <button id="send_username" [disabled]="!user" (click)="off()"></button>
+  </div>
+</div>
+
+<div class="wrapper" (click)="disableContextMenu()" oncontextmenu="return false;">
+  <h1>Upload your file here</h1>
+  <div class='drop' (dragover)="onDragOver($event)" (dragleave)="onDragLeave($event)" (drop)="onDrop($event)">
+    <div class="file-drop-area">
+      <span class="fake-btn">Choose files</span>
+      <span class="file-msg">or drag and drop files here</span>
+      <input class="file-input" type="file" (change)="onFileChange($event)">
+    </div>
+    <div id="slider">
+      <div id="sliderbar">
+      </div>
+      <div id="szazalek">
+      </div>
+    </div>
+  </div>
+
+  <h1>Storage structure</h1>
+  <div class="menu">
+    <input class="fill1" maxlength="30" [(ngModel)]="searchText" placeholder="Search...">
+    <button class="fill" (click)="getLogs()">Get logs</button>
+    <button class="fill" [disabled]="formPath() == '/'" (click)="backTo()">Back</button>
+    <button class="fill" [disabled]="formPath() == '/'" (click)="backToRoot()">Back To Root</button>
+    <button class="fill" (click)="openInput()">Create Directory</button>
+    <p class="curDir">{{formPath()}}</p>
+
+  </div>
+  <div class="list">
+    <button class="raise" *ngFor="let dir of listDirectories | filter : searchText" (click)='action(dir)' (contextmenu)="onrightClick($event,dir)">
+      <span *ngIf="dir.type == 'dir'"><img src="../assets/folder.png" width="18px"></span>
+      <span *ngIf="dir.type == 'file'"><img src="../assets/file.png" width="18px"></span>
+      {{(dir.name.length>12) ? (dir.name | slice:0:12)+'..':(dir.name)}}
+    </button>
+  </div>
+
+  <div *ngIf="contextmenu==true" class="contextmenu" [ngStyle]="{'left.px': contextmenuX, 'top.px': contextmenuY}">
+    <p class='ctx_btn' (click)="openDelete()">Delete</p>
+    <p class='ctx_btn' *ngIf="selectedItem.type=='file'" (click)="openInfo()">Info</p>
+  </div>
+
+  <!-- The Modal UPLOAD-->
+  <div id="myModal" class="modal">
+    <!-- Modal content -->
+    <div class="modal-content">
+      <!-- <span class="close">&times;</span> -->
+      <div class="modal_text">
+        <p>File with the same name is already exists. </p>
+        <p>What do you want to do?</p>
+      </div>
+      <button class="modal_btn" (click)="duplicate()">Duplicate</button>
+      <button class="modal_btn" (click)="rewrite()">Rewrite</button>
+      <button class="modal_btn" id="cancel">Cancel</button>
+    </div>
+  </div>
+
+  <!-- The Modal CREATE-->
+  <div id="myModal2" class="modal">
+    <!-- Modal content -->
+    <div class="modal-content">
+      <!-- <span class="close">&times;</span> -->
+      <div class="modal_text">
+        <p><input type='text' maxlength="30" #dirname placeholder="Directory name..." [(ngModel)]='emptyInput'></p>
+      </div>
+      <button class="modal_btn" [disabled]="!emptyInput" (click)="createDir(dirname.value)">Create Directory</button>
+    </div>
+  </div>
+
+  <!-- The Modal DELETE-->
+  <div id="myModal3" class="modal">
+    <!-- Modal content -->
+    <div class="modal-content">
+      <!-- <span class="close">&times;</span> -->
+      <div class="modal_text">
+        <p>Are you sure you want to delete this?</p>
+      </div>
+      <button class="modal_btn" (click)="delteItem()">OK</button>
+      <button class="modal_btn" id="cancel2">Cancel</button>
+    </div>
+  </div>
+
+  <!-- The Modal INFO-->
+  <div id="myModal4" class="modal">
+    <!-- Modal content -->
+    <div class="modal-content">
+      <!-- <span class="close">&times;</span> -->
+      <div class="modal_text">
+        <p>Information about file:</p>
+        <p class="file_info"></p>
+      </div>
+      <button class="modal_btn" id="cancel3">Cancel</button>
+    </div>
+  </div>
+
+  <!-- The Modal INFO-->
+  <div id="myModal5" class="modal">
+      <!-- Modal content -->
+      <div class="modal-content" style="text-align: left">
+        <!-- <span class="close">&times;</span> -->
+        <div class="modal_text">
+          <p class="logggs" *ngFor="let log of logsArr">
+            {{log.time}}: {{log.action}} {{log.path}} <br></p>
+        </div>
+        <button class="modal_btn" id="cancel4">Close</button>
+      </div>
+    </div>
+</div>

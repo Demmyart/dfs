@@ -1,0 +1,72 @@
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/StorageServer.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/StorageServer.pdb
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/Newtonsoft.Json.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Net.Http.Formatting.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Web.Http.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Web.Http.WebHost.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Net.Http.Formatting.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Web.Http.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Web.Http.WebHost.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/Newtonsoft.Json.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/obj/Debug/StorageServer.csprojAssemblyReference.cache
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/obj/Debug/StorageServer.csproj.CoreCompileInputs.cache
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/obj/Debug/StorageServer.csproj.CopyComplete
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/obj/Debug/StorageServer.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/obj/Debug/StorageServer.pdb
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Web.Cors.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Web.Http.Cors.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/StorageServer/bin/System.Web.Http.Cors.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/StorageServer.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/StorageServer.pdb
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/Newtonsoft.Json.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Net.Http.Formatting.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Web.Cors.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Web.Http.Cors.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Web.Http.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Web.Http.WebHost.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Net.Http.Formatting.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Web.Http.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Web.Http.Cors.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/Newtonsoft.Json.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/bin/System.Web.Http.WebHost.xml
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/obj/Debug/StorageServer.csprojAssemblyReference.cache
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/obj/Debug/StorageServer.csproj.CoreCompileInputs.cache
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/obj/Debug/StorageServer.csproj.CopyComplete
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/obj/Debug/StorageServer.dll
+/home/ubuntu60/Desktop/Labs/Block2/DS Project/StorageServer/StorageServer/obj/Debug/StorageServer.pdb
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/StorageServer.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/StorageServer.pdb
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/Newtonsoft.Json.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Net.Http.Formatting.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Web.Cors.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Web.Http.Cors.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Web.Http.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Web.Http.WebHost.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Net.Http.Formatting.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Web.Http.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Web.Http.Cors.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/Newtonsoft.Json.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/bin/System.Web.Http.WebHost.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/obj/Debug/StorageServer.csprojAssemblyReference.cache
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/obj/Debug/StorageServer.csproj.CoreCompileInputs.cache
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/obj/Debug/StorageServer.csproj.CopyComplete
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/obj/Debug/StorageServer.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer/StorageServer/obj/Debug/StorageServer.pdb
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/StorageServer.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/StorageServer.pdb
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/Newtonsoft.Json.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Net.Http.Formatting.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Web.Cors.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Web.Http.Cors.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Web.Http.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Web.Http.WebHost.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Net.Http.Formatting.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Web.Http.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Web.Http.Cors.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/Newtonsoft.Json.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/bin/System.Web.Http.WebHost.xml
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/obj/Debug/StorageServer.csprojAssemblyReference.cache
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/obj/Debug/StorageServer.csproj.CoreCompileInputs.cache
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/obj/Debug/StorageServer.csproj.CopyComplete
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/obj/Debug/StorageServer.dll
+/home/ubuntu60/Desktop/Labs/Block2/sne-dfs/StorageServer (docker build)/StorageServer/obj/Debug/StorageServer.pdb
